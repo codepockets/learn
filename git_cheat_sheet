@@ -29,3 +29,7 @@ git pull <name of branch>
 - to know the status of a branch
 
 git status
+
+- to delete a remote branch (on github)
+
+$ git push origin --delete <name of branch>
