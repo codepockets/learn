@@ -1,0 +1,31 @@
+- to list all branches in a repository
+
+git branch
+
+- to remove a branch from a repository
+
+git branch -d <name of branch>
+
+- to quickly create a new branch
+
+git checkout -b <name of new branch>
+
+- to stage a file
+
+git add <name of file>
+
+- to commit the file with a comment included
+
+git commit -a -m 'comment goes here'
+
+- to push changes to the origin branch (on github)
+
+git push origin <name of branch>
+
+- to pull a branch
+
+git pull <name of branch>
+
+- to know the status of a branch
+
+git status
