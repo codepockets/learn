@@ -32,4 +32,4 @@ git status
 
 - to delete a remote branch (on github)
 
-$ git push origin --delete <name of branch>
+git push origin --delete <name of branch>
